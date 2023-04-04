@@ -1,2 +1,2 @@
 # intro-to-github
-Introduction to GitHub
+Hello, welcome to GitHub from Twinwood ITT Corp!
